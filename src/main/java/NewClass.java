@@ -12,6 +12,6 @@ public class NewClass {
     public static void main(String[] args) {
         System.out.println("Salut Julia");
         System.out.println("Salut Nelson");
-        System.out.println("Ah");
+        System.out.println("C'est rigolo GitHub");
     }
 }
